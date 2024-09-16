@@ -1,0 +1,14 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "title": "First title",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Second title",
+      "completed": false
+    }
+  ]
+}
